@@ -1,0 +1,14 @@
+D:\Jaebin\Programing\c#\Chatting\Chatting\bin\Debug\Chatting.exe.config
+D:\Jaebin\Programing\c#\Chatting\Chatting\bin\Debug\Chatting.exe
+D:\Jaebin\Programing\c#\Chatting\Chatting\bin\Debug\Chatting.pdb
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.csproj.AssemblyReference.cache
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.csproj.SuggestedBindingRedirects.cache
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.Lobby.resources
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.exe
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.pdb
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.UsersList.resources
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.FileList.resources
+D:\Jaebin\Programing\c#\Chatting\Chatting\obj\Debug\Chatting.Main.resources
